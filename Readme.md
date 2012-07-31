@@ -1,4 +1,4 @@
-#this form is smart And Easy Regular Expressions validdate ;)
+#this form is smart And Easy Regular Expressions validdator;)
 
 mohsen niyazdel
 ============================================================ 
